@@ -1,0 +1,17 @@
+.taskLine {
+    white-space: nowrap
+}
+
+.taskLine div {
+    width: 90px;
+    display: inline-block;
+    border: 1px solid white;
+}
+
+.completed {
+   background-color: green;
+}
+
+.uncompleted {
+    background-color: red;
+}
